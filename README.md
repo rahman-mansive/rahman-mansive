@@ -1,22 +1,35 @@
-## 🧩 Competitive Programming
-
 <p align="center">
+  <!-- LeetCode Card -->
   <a href="https://leetcode.com/rahman_mansive">
-    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=nord&font=Baloo_2" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Card" width="48%" />
   </a>
+  
+  <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://cp-insights-three.vercel.app/api/profile?handle=rahman.mansive&theme=dark" alt="Codeforces Stats" width="48%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=dark" alt="Codeforces Card" width="48%" />
   </a>
 </p>
 
----
+<p align="center">
+  <!-- CodeChef Card -->
+  <a href="https://www.codechef.com/users/rahman_mansive">
+    <img src="https://codechef-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="CodeChef Card" width="48%" />
+  </a>
 
-### 🛡️ Profiles
+  <!-- GeeksforGeeks Card -->
+  <a href="https://auth.geeksforgeeks.org/user/rahmanmansive">
+    <img src="https://gfg-readme-stats.vercel.app/api?username=rahmanmansive&theme=dark" alt="GeeksforGeeks Card" width="48%" />
+  </a>
+</p>
 
-| Platform | Profile Badge | Profile Link |
-| :--- | :--- | :--- |
-| **LeetCode** | ![LeetCode](https://img.shields.io/badge/LeetCode-rahman__mansive-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | [View Profile](https://leetcode.com/rahman_mansive) |
-| **Codeforces** | ![Codeforces](https://img.shields.io/badge/Codeforces-rahman.mansive-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | [View Profile](https://codeforces.com/profile/rahman.mansive) |
-| **CodeChef** | ![CodeChef](https://img.shields.io/badge/CodeChef-rahman__mansive-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | [View Profile](https://www.codechef.com/users/rahman_mansive) |
-| **GeeksforGeeks** | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rahmanmansive-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [View Profile](https://auth.geeksforgeeks.org/user/rahmanmansive) |
-| **HackerRank** | ![HackerRank](https://img.shields.io/badge/HackerRank-rahman__mansive-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black) | [View Profile](https://www.hackerrank.com/rahman_mansive) |
+<p align="center">
+  <!-- HackerRank Card -->
+  <a href="https://www.hackerrank.com/rahman_mansive">
+    <img src="https://hackerrank-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="HackerRank Card" width="48%" />
+  </a>
+
+  <!-- AtCoder Card -->
+  <a href="https://atcoder.jp/users/rahman_mansive">
+    <img src="https://atcoder-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="AtCoder Card" width="48%" />
+  </a>
+</p>
