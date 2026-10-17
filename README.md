@@ -3,14 +3,16 @@
 ### 📈 Real-Time Platform Stats
 
 <p align="center">
-  <!-- LeetCode Stats Card (Working Endpoint) -->
+  <!-- Minimalist LeetCode Progress Card -->
   <a href="https://leetcode.com/rahman_mansive">
-    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Progress Card" width="48%" />
   </a>
   
-  <!-- Codeforces Stats Card -->
+  <br /><br />
+
+  <!-- Compact Codeforces Badge Card -->
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=tokyonight" alt="Codeforces Stats" width="48%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=rahman.mansive" alt="Codeforces Compact Badge" />
   </a>
 </p>
 
