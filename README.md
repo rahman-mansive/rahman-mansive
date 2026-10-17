@@ -2,13 +2,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/rahman_mansive">
-    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=nord&font=Baloo_2&ext=heatmap" alt="LeetCode Stats" width="80%" />
+    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=nord&font=Baloo_2" alt="LeetCode Stats" width="48%" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://cp-insights-three.vercel.app/api/profile?handle=rahman.mansive&theme=dark&heatmap=true&problemBarGraph=true" alt="Codeforces Stats" width="80%" />
+    <img src="https://cp-insights-three.vercel.app/api/profile?handle=rahman.mansive&theme=dark" alt="Codeforces Stats" width="48%" />
   </a>
 </p>
 
