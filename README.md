@@ -1,22 +1,20 @@
-## 🧩 Competitive Programming & Problem Solving
-
-### 📈 Real-Time Platform Stats
+## 🧩 Competitive Programming
 
 <p align="center">
-  <!-- Minimalist LeetCode Progress Card -->
   <a href="https://leetcode.com/rahman_mansive">
-    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Progress Card" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=nord&font=Baloo_2&ext=heatmap" alt="LeetCode Stats" width="80%" />
   </a>
-  
-  <!-- Full Codeforces Stats Card -->
+</p>
+
+<p align="center">
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=dark" alt="Codeforces Stats Card" width="48%" />
+    <img src="https://cp-insights-three.vercel.app/api/profile?handle=rahman.mansive&theme=dark&heatmap=true&problemBarGraph=true" alt="Codeforces Stats" width="80%" />
   </a>
 </p>
 
 ---
 
-### 🛡️ Profiles & Community Handles
+### 🛡️ Profiles
 
 | Platform | Profile Badge | Profile Link |
 | :--- | :--- | :--- |
