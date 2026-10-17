@@ -3,9 +3,9 @@
 ### 📈 Real-Time Platform Stats
 
 <p align="center">
-  <!-- LeetCode Stats Card (Reliable Alternative API) -->
+  <!-- LeetCode Stats Card (Active API) -->
   <a href="https://leetcode.com/rahman_mansive">
-    <img src="https://leetcode-stats-card-two.vercel.app/get?username=rahman_mansive&theme=tokyonight" alt="LeetCode Stats" width="48%" />
+    <img src="https://github-readme-leetcode-stats.vercel.app/api?username=rahman_mansive&theme=tokyonight" alt="LeetCode Stats" width="48%" />
   </a>
   
   <!-- Codeforces Stats Card -->
