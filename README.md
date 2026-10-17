@@ -11,25 +11,16 @@
 </p>
 
 <p align="center">
-  <!-- CodeChef Card -->
   <a href="https://www.codechef.com/users/rahman_mansive">
-    <img src="https://codechef-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="CodeChef Card" width="48%" />
+    <img src="https://img.shields.io/badge/CodeChef-rahman__mansive-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-
-  <!-- GeeksforGeeks Card -->
   <a href="https://auth.geeksforgeeks.org/user/rahmanmansive">
-    <img src="https://gfg-readme-stats.vercel.app/api?username=rahmanmansive&theme=dark" alt="GeeksforGeeks Card" width="48%" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-rahmanmansive-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-</p>
-
-<p align="center">
-  <!-- HackerRank Card -->
   <a href="https://www.hackerrank.com/rahman_mansive">
-    <img src="https://hackerrank-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="HackerRank Card" width="48%" />
+    <img src="https://img.shields.io/badge/HackerRank-rahman__mansive-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
-
-  <!-- AtCoder Card -->
   <a href="https://atcoder.jp/users/rahman_mansive">
-    <img src="https://atcoder-readme-stats.vercel.app/api?username=rahman_mansive&theme=dark" alt="AtCoder Card" width="48%" />
+    <img src="https://img.shields.io/badge/AtCoder-rahman__mansive-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
   </a>
 </p>
