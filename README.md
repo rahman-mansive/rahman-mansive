@@ -4,9 +4,9 @@
     <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Card" width="48%" />
   </a>
   
-  <!-- Codeforces Card (Displays Handle 'rahman.mansive') -->
+  <!-- Codeforces Card (Cache Bypassed for Handle Display) -->
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=dark&showName=false" alt="Codeforces Card" width="48%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=dark&showName=false&v=1" alt="Codeforces Card" width="48%" />
   </a>
 </p>
 
