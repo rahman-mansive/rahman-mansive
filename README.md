@@ -8,11 +8,9 @@
     <img src="https://leetcard.jacoblin.cool/rahman_mansive?theme=dark&font=ABeeZee" alt="LeetCode Progress Card" width="48%" />
   </a>
   
-  <br /><br />
-
-  <!-- Compact Codeforces Badge Card -->
+  <!-- Full Codeforces Stats Card -->
   <a href="https://codeforces.com/profile/rahman.mansive">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=rahman.mansive" alt="Codeforces Compact Badge" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rahman.mansive&theme=dark" alt="Codeforces Stats Card" width="48%" />
   </a>
 </p>
 
